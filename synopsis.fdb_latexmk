@@ -1,14 +1,14 @@
 # Fdb version 4
-["biber synopsis"] 1750388335.75935 "synopsis.bcf" "synopsis.bbl" "synopsis" 1750388982.63119 0
+["biber synopsis"] 1750499690.85148 "synopsis.bcf" "synopsis.bbl" "synopsis" 1750499708.98021 0
   "biblio/author.bib" 1748625343 6178 706b231ffeeb29effb0822ea7be151d2 ""
-  "biblio/external.bib" 1748625343 25047 3e84500095f3b6b8105b7c387a5f926b ""
+  "biblio/external.bib" 1750499688 31513 567e7c490f8905e631137990d0e0177c ""
   "biblio/registered.bib" 1748625343 1301 df720ddeaa608d5dcc55d5673e0fc222 ""
-  "synopsis.bcf" 1750388981 117082 bd76c70beabc0d20b618553809246654 "pdflatex"
+  "synopsis.bcf" 1750499708 117336 7856980ebdba5245d1dd8f9d49950b70 "pdflatex"
   (generated)
   "synopsis.bbl"
   "synopsis.blg"
   (rewritten before read)
-["pdflatex"] 1750388976.61319 "e:/YandexDisk/Personal/Phd-LaTeX/synopsis.tex" "synopsis.pdf" "synopsis" 1750388982.63239 0
+["pdflatex"] 1750499702.00695 "e:/YandexDisk/Personal/Phd-LaTeX/synopsis.tex" "synopsis.pdf" "synopsis" 1750499708.98161 0
   "C:/Users/user/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1750388307 94946 9b67c95458ccb7984777776fd05a608f ""
   "C:/Users/user/AppData/Local/MiKTeX/fonts/tfm/lh/lh-t2a/larm1000.tfm" 1747466190 3220 0e417eaf233b160335902e97259a6c77 ""
   "C:/Users/user/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1750385250 13157198 5449fd7debc68379d7ccfc67624909e2 ""
@@ -355,7 +355,8 @@
   "C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/xfrac/xfrac.sty" 1718270407 14945 a207ee7fd6b8cf6d82afb367c583ddd3 ""
   "C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585221260 8510 7803f78066c4f9d008405191a4b43073 ""
-  "Synopsis/content.tex" 1748625343 10303 1e5478d7477c25290e32ca2f6a91044d ""
+  "Synopsis/content.tex" 1750476972 10390 23312e29b06c91251f3f5115c3309c3a ""
+  "Synopsis/images/с_ica_principle.pdf" 1750488294 92648 048cb0ac9fd5685b53ad4681c136d868 ""
   "Synopsis/setup.tex" 1748625343 4757 7bb4247d65b933db822318fa6b15e72b ""
   "Synopsis/synpackages.tex" 1748625343 459 18e2e9f6e5fa833e8d9f500816838d63 ""
   "Synopsis/synstyles.tex" 1748625343 2382 e4c7aa5828253d651d94e42f02f59c75 ""
@@ -363,7 +364,7 @@
   "Synopsis/userpackages.tex" 1748625343 361 9e23f24bbab3c3b5ab6c8f853a830e6e ""
   "Synopsis/userstyles.tex" 1748625343 65 64f30dea2714c436408b14aa69c4dbfd ""
   "biblio/biblatex.tex" 1748625343 30833 a12ec20f43b98e486a689c32b3e14f8e ""
-  "common/characteristic.tex" 1748625343 16370 2af8370c8eb94b1e9122250970c54500 ""
+  "common/characteristic.tex" 1750499686 24114 f9af73c153c3dc3e29aea6c5ba72a1a4 ""
   "common/concl.tex" 1748625343 887 89cb158bdbc6663ff2d569d9a21d296c ""
   "common/data.tex" 1750388964 9437 69e32a3109ea57ba81fc95b21353abb5 ""
   "common/fonts.tex" 1748625343 5454 474b5f8dd328240346c5254a5992b3d4 ""
@@ -372,17 +373,17 @@
   "common/renames.tex" 1748625343 455 d1c0674881d9cd104998b556c9a581e8 ""
   "common/setup.tex" 1750388300 4568 9a35aa23a0c3da3eb5f4d385c9cd49be ""
   "common/styles.tex" 1748625343 17997 54fc92e95d5570a531374dbe2d5ab1c2 ""
-  "e:/YandexDisk/Personal/Phd-LaTeX/synopsis.tex" 1750388845 4126 88b3942a1770628274d109c9bb623cee ""
+  "e:/YandexDisk/Personal/Phd-LaTeX/synopsis.tex" 1750495347 4126 88b3942a1770628274d109c9bb623cee ""
   "images/knuth1.jpg" 1748625343 10378 dc7a3ea45e5c2af7b867de8be110739a ""
   "images/latex.png" 1748625343 4925 e04cf06053feb165bb415e9cedd0ba10 ""
   "images/logo.pdf" 1748625343 14629 586f98285f6ce44426b53552cef74849 ""
   "images/personal-signature.png" 1748625343 1723 b2a8b7614ac5b6def9b660db42209731 ""
   "images/secretary-signature.png" 1748625343 1891 b9b95d3f3341fbe1a1aba6261509a48d ""
   "siunitx.cfg" 1748625343 18459 53a6e5c345550251030966f9a09f058c ""
-  "synopsis.aux" 1750388981 8775 5af4ba3a379f20c5658f1239f7ba6ea6 "pdflatex"
-  "synopsis.bbl" 1750388340 178628 82d2a8315c806d5fa121ef6510fc12b1 "biber synopsis"
-  "synopsis.run.xml" 1750388981 2447 195e71e81667cded0bf76817d4c2802b "pdflatex"
-  "synopsis.tex" 1750388845 4126 88b3942a1770628274d109c9bb623cee ""
+  "synopsis.aux" 1750499707 9834 d1fe154e0c8d61e812be146e984aa229 "pdflatex"
+  "synopsis.bbl" 1750499695 203258 cc0d76e32ebb66a40a0afe9d5e36761f "biber synopsis"
+  "synopsis.run.xml" 1750499708 2447 195e71e81667cded0bf76817d4c2802b "pdflatex"
+  "synopsis.tex" 1750495347 4126 88b3942a1770628274d109c9bb623cee ""
   (generated)
   "synopsis.aux"
   "synopsis.bcf"

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.20)  20 JUN 2025 06:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.20)  21 JUN 2025 12:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2018,18 +2018,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 116--48
 
 
 [2.2 <./images/secretary-signature.png>] (Synopsis/content.tex (common/characteristic.tex
-LaTeX Font Info:    Trying to load font information for T2A+fer on input line 8.
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/pscyr\t2afer.fd
-File: t2afer.fd 2004/09/21 Fontinst v1.914 font definitions for T2A/fer.
-)
+
+pdfTeX warning: pdflatex (file ./Synopsis/images/СЃ_ica_principle.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Synopsis/images/СЃ_ica_principle.pdf, id=29, 963.6pt x 542.025pt>
+File: Synopsis/images/СЃ_ica_principle.pdf Graphic file (type pdf)
+<use Synopsis/images/СЃ_ica_principle.pdf>
+Package pdftex.def Info: Synopsis/images/СЃ_ica_principle.pdf  used on input line 10.
+(pdftex.def)             Requested size: 260.17548pt x 146.3487pt.
+
+Underfull \vbox (badness 1097) has occurred while \output is active []
+
+
 
 [3.3
 
 ]
+Underfull \hbox (badness 1983) in paragraph at lines 29--30
+[]\T2A/ftm/m/n/10 Другим пер^^?спек^^?тив^^?ным на^^?прав^^?ле^^?ни^^?ем по^^?вы^^?ше^^?ния чув^^?стви^^?тель^^?но^^?сти
+ []
+
+
+
+[4.4 <./Synopsis/images/СЃ_ica_principle.pdf>]
+LaTeX Font Info:    Trying to load font information for T2A+fer on input line 64.
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/pscyr\t2afer.fd
+File: t2afer.fd 2004/09/21 Fontinst v1.914 font definitions for T2A/fer.
+)
 \blx@maxsegment@1=\count652
 \blx@sectionciteorder@1=\count653
-Package biblatex Info: Reference section=1 on input line 179.
-Package biblatex Info: Setting label 'refsection:1' on input line 179.
+Package biblatex Info: Reference section=1 on input line 158.
+Package biblatex Info: Setting label 'refsection:1' on input line 158.
 
 
 Package biblatex Warning: Split bibliography detected.
@@ -2136,28 +2154,28 @@ Package biblatex Warning: Split bibliography detected.
 \@c=\count657
 \@last=\count658
 \@pnul=\count659
-Package biblatex Info: Reference section=0 on input line 179.
+Package biblatex Info: Reference section=0 on input line 158.
 \blx@maxsegment@2=\count660
 \blx@sectionciteorder@2=\count661
-Package biblatex Info: Reference section=2 on input line 179.
-Package biblatex Info: Setting label 'refsection:2' on input line 179.
-Package biblatex Info: Reference section=0 on input line 179.
-)
+Package biblatex Info: Reference section=2 on input line 158.
+Package biblatex Info: Setting label 'refsection:2' on input line 158.
+Package biblatex Info: Reference section=0 on input line 158.
 
-[4.4]
-<images/latex.png, id=36, 451.6875pt x 194.7275pt>
+
+[5.5])
+<images/latex.png, id=88, 451.6875pt x 194.7275pt>
 File: images/latex.png Graphic file (type png)
 <use images/latex.png>
 Package pdftex.def Info: images/latex.png  used on input line 45.
 (pdftex.def)             Requested size: 121.95724pt x 52.57712pt.
-<images/knuth1.jpg, id=37, 157.68pt x 186.15pt>
+<images/knuth1.jpg, id=89, 157.68pt x 186.15pt>
 File: images/knuth1.jpg Graphic file (type jpg)
 <use images/knuth1.jpg>
 Package pdftex.def Info: images/knuth1.jpg  used on input line 48.
 (pdftex.def)             Requested size: 85.35826pt x 100.7723pt.
- (common/concl.tex
 
-[5.5 <./images/latex.png> <./images/knuth1.jpg>])
+
+[6.6] (common/concl.tex)
 Underfull \hbox (badness 5091) in paragraph at lines 79--82
 []\T2A/ftm/m/n/10 При ис^^?поль^^?зо^^?ва^^?нии па^^?ке^^?та [][]\T2A/fer/m/n/10 biblatex []\T2A/ftm/m/n/10 спи^^?сок пуб^^?ли^^?ка^^?ций ав^^?то^^?
  []
@@ -2186,7 +2204,7 @@ Package biblatex Warning: Split bibliography detected.
 
 
 
-[6.6]
+[7.7 <./images/latex.png> <./images/knuth1.jpg>]
 
 Package biblatex Warning: Option 'labelprefix' requires global
 (biblatex)                'defernumbers=true' on input line 163.
@@ -2205,6 +2223,13 @@ Package biblatex Warning: Split bibliography detected.
 (biblatex)                '\BiblatexSplitbibDefernumbersWarningOff'.
 
 
+
+[8.8]
+Underfull \hbox (badness 1831) in paragraph at lines 163--163
+[]\T2A/ftm/m/n/10 Lyubov V. Barshevskaya и др. ^^V ѕ  Highly Sensitive Lateral Flow
+ []
+
+
 Package biblatex Warning: Split bibliography detected.
 (biblatex)                Many simple split bibliography setups with
 (biblatex)                non-overlapping bibliographies benefit from
@@ -2219,9 +2244,9 @@ Package biblatex Warning: Option 'resetnumbers' requires 'defernumbers=true'.
 
 )
 
-[7.7]
+[9.9]
 
-[8.8]
+[10.10]
 
 Package caption Warning: Unused \captionsetup[table] on input line 25.
 See the caption package documentation for explanation.
@@ -2436,6 +2461,7 @@ images/secretary-signature.png
 images/secretary-signature.png
 Synopsis/content.tex
 common/characteristic.tex
+Synopsis/images/СЃ_ica_principle.pdf
   t2afer.fd    2004/09/21 Fontinst v1.914 font definitions for T2A/fer.
 images/latex.png
 images/knuth1.jpg
@@ -2449,17 +2475,17 @@ Package logreq Info: Writing requests to 'synopsis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 76531 strings out of 469940
- 1860804 string characters out of 5469893
- 3097124 words of memory out of 5000000
- 102322 multiletter control sequences out of 15000+600000
+ 76558 strings out of 469940
+ 1862491 string characters out of 5469893
+ 3096587 words of memory out of 5000000
+ 102349 multiletter control sequences out of 15000+600000
  654431 words of font info for 98 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 94i,14n,98p,1234b,2117s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,14n,98p,2721b,2119s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/pscyr/ercour.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/pscyr/times.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/pscyr/timesbd.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/pscyr/timesi.pfb>
-Output written on synopsis.pdf (8 pages, 178735 bytes).
+Output written on synopsis.pdf (10 pages, 251903 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
+ 148 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
 
